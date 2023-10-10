@@ -1,0 +1,9 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/lab8/src/adder_32bits.v,1696938427,verilog,,D:/lab8/src/adder_4bits.v,,adder_32bits,,,,,,,,
+D:/lab8/src/adder_32bits_tb.v,1687830540,verilog,,,,adder_32bits_tb,,,,,,,,
+D:/lab8/src/adder_4bits.v,1696859992,verilog,,D:/lab8/src/adder_4bits_mux.v,,adder_4bits,,,,,,,,
+D:/lab8/src/adder_4bits_mux.v,1696860526,verilog,,D:/lab8/src/adder_32bits_tb.v,,adder_4bits_mux,,,,,,,,
+D:/lab8/vivado/lab8/lab8.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,

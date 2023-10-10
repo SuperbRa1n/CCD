@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/lab8/src/adder_32bits.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder_32bits
+INFO: [VRFC 10-2458] undeclared symbol c7, assumed default net type wire [D:/lab8/src/adder_32bits.v:15]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/lab8/src/adder_4bits.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder_4bits
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/lab8/src/adder_4bits_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder_4bits_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/lab8/src/adder_32bits_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder_32bits_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/lab8/vivado/lab8/lab8.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

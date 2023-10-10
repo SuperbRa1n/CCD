@@ -2,23 +2,23 @@ module pipeline_adder (clk, a, b, ci, s, co);
     input clk;
     input[31:0] a, b;
     input ci;
-    output reg [31:0] s;
-    output reg co;
+    output wire [31:0] s;
+    output wire co;
 
-    reg[31:0] ta0, tb0;  
-    reg tci;                
+    wire[31:0] ta0, tb0;  
+    wire tci;                
 
-    reg[7:0] sum0;             
-    reg co0;
-    reg[23:0] ta1, tb1;  
+    wire[7:0] sum0;             
+    wire co0;
+    wire[23:0] ta1, tb1;  
 
-    reg[15:0] sum1;            
-    reg co1;
-    reg[15:0] ta2, tb2;  
+    wire[15:0] sum1;            
+    wire co1;
+    wire[15:0] ta2, tb2;  
     
-    reg[23:0] sum2;            
-    reg co2;
-    reg[7:0] ta3, tb3;   
+    wire[23:0] sum2;            
+    wire co2;
+    wire[7:0] ta3, tb3;   
 
     d_ff #(.n(1)) d0(.clk(clk), .d(ci), .q(tci));
     d_ff #(.n(32)) d1(.clk(clk), .d(a), .q(ta0));
