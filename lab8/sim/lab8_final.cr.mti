@@ -1,0 +1,68 @@
+E:/3210105816/CCD/lab8/src/full_adder.v {0 {vlog -work work -vopt -stats=none E:/3210105816/CCD/lab8/src/full_adder.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module full_adder
+** Error: (vlog-13069) E:/3210105816/CCD/lab8/src/full_adder.v(2): near ";": syntax error, unexpected ';', expecting ')'.
+
+
+} {4.0 5.0} {}} E:/3210105816/CCD/lab8/src/adder_32bits.v {0 {vlog -work work -vopt -stats=none E:/3210105816/CCD/lab8/src/adder_32bits.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_32bits
+** Error: (vlog-13069) E:/3210105816/CCD/lab8/src/adder_32bits.v(2): near ";": syntax error, unexpected ';', expecting ')'.
+
+
+} {4.0 5.0} {}} E:/3210105816/CCD/lab8/src/pipeline_adder_tb.v {1 {vlog -work work -vopt -stats=none E:/3210105816/CCD/lab8/src/pipeline_adder_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module pipeline_adder_tb
+
+Top level modules:
+	pipeline_adder_tb
+
+} {} {}} E:/3210105816/CCD/lab8/src/adder_4bits_tb.v {1 {vlog -work work -vopt -stats=none E:/3210105816/CCD/lab8/src/adder_4bits_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_4bits_tb
+
+Top level modules:
+	adder_4bits_tb
+
+} {} {}} E:/3210105816/CCD/lab8/src/adder_4bits_mux.v {1 {vlog -work work -vopt -stats=none E:/3210105816/CCD/lab8/src/adder_4bits_mux.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_4bits_mux
+
+Top level modules:
+	adder_4bits_mux
+
+} {} {}} E:/3210105816/CCD/lab8/src/full_adder_tb.v {1 {vlog -work work -vopt -stats=none E:/3210105816/CCD/lab8/src/full_adder_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module full_adder_tb
+
+Top level modules:
+	full_adder_tb
+
+} {} {}} E:/3210105816/CCD/lab8/src/adder_32bits_tb.v {1 {vlog -work work -vopt -stats=none E:/3210105816/CCD/lab8/src/adder_32bits_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_32bits_tb
+
+Top level modules:
+	adder_32bits_tb
+
+} {} {}} E:/3210105816/CCD/lab8/src/complement_adder_tb.v {1 {vlog -work work -vopt -stats=none E:/3210105816/CCD/lab8/src/complement_adder_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module complement_adder_tb
+
+Top level modules:
+	complement_adder_tb
+
+} {} {}} E:/3210105816/CCD/lab8/src/pipeline_adder.v {0 {vlog -work work -vopt -stats=none E:/3210105816/CCD/lab8/src/pipeline_adder.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module pipeline_adder
+** Error: (vlog-13069) E:/3210105816/CCD/lab8/src/pipeline_adder.v(2): near ";": syntax error, unexpected ';', expecting ')'.
+
+
+} {4.0 5.0} {}} E:/3210105816/CCD/lab8/src/adder_4bits.v {1 {vlog -work work -vopt -stats=none E:/3210105816/CCD/lab8/src/adder_4bits.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_4bits
+
+Top level modules:
+	adder_4bits
+
+} {} {}}
